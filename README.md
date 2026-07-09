@@ -23,6 +23,7 @@
 | [0112-path-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -51,6 +52,7 @@
 | [0112-path-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
@@ -72,4 +74,12 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
