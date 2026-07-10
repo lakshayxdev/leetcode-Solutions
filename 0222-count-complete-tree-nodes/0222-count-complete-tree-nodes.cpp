@@ -11,12 +11,14 @@
  */
 class Solution {
 public:
+vector<int> ans;
     int countNodes(TreeNode* root) {
         if(root==NULL) {
             return 0;
         }
-        int ans1=countNodes(root->left);
-        int ans2=countNodes(root->right);
-        return ans1+ans2+1;
+        countNodes(root->left);
+        countNodes(root->right);
+        ans.push_back(root->val);
+        return ans.size();
     }
 };
