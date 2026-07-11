@@ -32,6 +32,7 @@
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -69,6 +70,7 @@
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -118,4 +120,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
