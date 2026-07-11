@@ -15,12 +15,10 @@ public:
         if(root==NULL) {
             return false;
         }
-        int remaining=targetSum-root->val;
-        if(root->left == NULL && root->right == NULL) {
-            return (remaining==0);
+        targetSum=targetSum-root->val;
+        if(root->left == NULL && root->right ==NULL) {
+            return (targetSum==0);
         }
-        bool left=hasPathSum(root->left, remaining);
-        bool right=hasPathSum(root->right, remaining);
-        return left || right;
+        return (hasPathSum(root->left, targetSum) || hasPathSum(root->right, targetSum));
     }
 };
