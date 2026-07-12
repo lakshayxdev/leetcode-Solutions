@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -22,6 +24,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -68,6 +71,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -151,4 +155,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
