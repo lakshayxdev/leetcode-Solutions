@@ -73,6 +73,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -143,6 +144,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -242,4 +244,12 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
