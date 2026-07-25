@@ -251,6 +251,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
