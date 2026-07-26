@@ -81,6 +81,7 @@
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,10 +253,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
