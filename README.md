@@ -84,6 +84,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
+| [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
+| [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -276,4 +279,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
