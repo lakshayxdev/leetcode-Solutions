@@ -77,6 +77,7 @@
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -158,6 +159,7 @@
 | [0437-path-sum-iii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -269,4 +272,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
