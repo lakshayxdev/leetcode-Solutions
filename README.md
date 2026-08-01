@@ -11,6 +11,7 @@
 | [0200-number-of-islands](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -81,6 +82,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -165,6 +167,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -283,9 +286,11 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
