@@ -18,6 +18,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
@@ -322,4 +324,5 @@
 | [0733-flood-fill](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
