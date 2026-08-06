@@ -19,6 +19,7 @@
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -192,11 +194,13 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +261,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -314,6 +319,7 @@
 | [0785-is-graph-bipartite](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -325,4 +331,9 @@
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
