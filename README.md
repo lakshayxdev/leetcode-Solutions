@@ -302,6 +302,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -309,10 +310,12 @@
 | [0207-course-schedule](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -344,8 +347,13 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimax
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
