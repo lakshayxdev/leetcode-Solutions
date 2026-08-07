@@ -96,6 +96,7 @@
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -191,6 +192,7 @@
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -265,6 +267,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -299,6 +302,7 @@
 | [0684-redundant-connection](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -315,6 +319,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -355,5 +360,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
