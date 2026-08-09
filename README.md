@@ -17,6 +17,7 @@
 | [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -351,6 +352,7 @@
 | [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -389,4 +391,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
