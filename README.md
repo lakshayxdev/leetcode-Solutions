@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -223,6 +225,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -230,6 +233,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
