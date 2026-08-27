@@ -53,6 +53,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -287,6 +288,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
 | ------- |
