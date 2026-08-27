@@ -194,6 +194,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -280,6 +281,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -439,6 +441,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -483,4 +486,8 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
