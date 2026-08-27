@@ -283,6 +283,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -308,6 +309,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
