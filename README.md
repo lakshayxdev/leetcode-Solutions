@@ -312,6 +312,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -335,6 +336,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
