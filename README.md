@@ -40,6 +40,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
