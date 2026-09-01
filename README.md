@@ -30,6 +30,7 @@
 | [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -291,6 +292,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String
@@ -338,6 +340,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,6 +365,7 @@
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -369,6 +373,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -509,6 +514,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bracket Sequences
 |  |
@@ -522,4 +528,12 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
