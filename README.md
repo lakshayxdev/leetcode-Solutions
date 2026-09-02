@@ -51,6 +51,7 @@
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -534,6 +535,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
