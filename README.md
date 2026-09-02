@@ -47,6 +47,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
@@ -71,6 +72,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
@@ -305,6 +307,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String
 |  |
@@ -386,6 +389,7 @@
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 ## Quickselect
 |  |
@@ -511,10 +515,12 @@
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
 | ------- |
