@@ -16,6 +16,7 @@
 | [0200-number-of-islands](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -380,6 +381,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0743-network-delay-time) |
