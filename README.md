@@ -47,6 +47,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -69,6 +70,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -545,6 +547,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 ## Geometry
 |  |
