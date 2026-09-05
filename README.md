@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
