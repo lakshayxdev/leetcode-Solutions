@@ -33,6 +33,7 @@
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -532,6 +533,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
