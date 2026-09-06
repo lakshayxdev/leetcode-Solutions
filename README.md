@@ -20,6 +20,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0506-relative-ranks) |
@@ -307,6 +308,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -528,6 +531,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
@@ -594,4 +598,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
