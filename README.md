@@ -38,6 +38,7 @@
 | [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -233,6 +234,7 @@
 | [0503-next-greater-element-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Depth-First Search
@@ -536,6 +538,7 @@
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
