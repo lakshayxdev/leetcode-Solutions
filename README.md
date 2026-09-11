@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -312,6 +313,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -623,4 +625,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
