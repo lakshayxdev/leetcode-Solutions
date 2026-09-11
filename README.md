@@ -228,6 +228,7 @@
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -388,6 +390,7 @@
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
@@ -616,4 +619,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
