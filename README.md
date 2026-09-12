@@ -364,6 +364,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -395,6 +396,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0143-reorder-list) |
