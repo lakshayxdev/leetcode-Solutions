@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -449,6 +450,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0303-range-sum-query-immutable](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
 | ------- |
@@ -550,6 +552,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
