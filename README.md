@@ -101,6 +101,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2374-node-with-highest-edge-score](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
@@ -496,6 +497,7 @@
 | [1462-course-schedule-iv](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2374-node-with-highest-edge-score](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2685-count-the-number-of-complete-components](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
