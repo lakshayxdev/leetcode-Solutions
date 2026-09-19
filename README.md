@@ -70,6 +70,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -324,6 +325,7 @@
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -390,6 +393,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
