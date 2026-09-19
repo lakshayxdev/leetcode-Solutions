@@ -361,6 +361,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -563,6 +564,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0213-house-robber-ii) |
