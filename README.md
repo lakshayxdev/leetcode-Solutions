@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -336,6 +337,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
@@ -379,6 +381,7 @@
 | [0039-combination-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
