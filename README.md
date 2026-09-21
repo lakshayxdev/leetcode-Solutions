@@ -374,6 +374,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
