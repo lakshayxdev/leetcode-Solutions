@@ -69,6 +69,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -101,6 +102,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -333,6 +335,7 @@
 | [0778-swim-in-rising-water](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -603,6 +606,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -663,6 +667,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 ## Geometry
