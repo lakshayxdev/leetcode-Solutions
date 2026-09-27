@@ -272,6 +272,7 @@
 | [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |
@@ -382,6 +383,7 @@
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -666,6 +668,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Doubly-Linked List
 |  |
 | ------- |
