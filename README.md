@@ -388,6 +388,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Backtracking
 |  |
 | ------- |
@@ -630,6 +631,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
@@ -664,6 +666,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bracket Sequences
 |  |
 | ------- |
