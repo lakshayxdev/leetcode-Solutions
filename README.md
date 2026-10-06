@@ -275,6 +275,7 @@
 | [0682-baseball-game](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -391,6 +392,7 @@
 | [0257-binary-tree-paths](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -653,6 +655,7 @@
 | [0455-assign-cookies](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
@@ -686,6 +689,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Doubly-Linked List
