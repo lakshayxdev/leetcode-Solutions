@@ -46,6 +46,7 @@
 | [0682-baseball-game](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -634,6 +635,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
