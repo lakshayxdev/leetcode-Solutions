@@ -88,6 +88,7 @@
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -645,6 +646,7 @@
 | [1732-find-the-highest-altitude](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -656,6 +658,7 @@
 | [0946-validate-stack-sequences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
@@ -692,6 +695,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -770,4 +774,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Combinatorics
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
