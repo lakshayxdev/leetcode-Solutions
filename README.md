@@ -66,6 +66,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -452,6 +453,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1089-duplicate-zeros](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
