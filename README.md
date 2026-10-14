@@ -401,6 +401,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -448,6 +449,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0086-partition-list) |
@@ -815,4 +817,20 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
