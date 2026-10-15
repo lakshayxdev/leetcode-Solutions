@@ -92,6 +92,7 @@
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -129,6 +130,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2374-node-with-highest-edge-score](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -833,4 +835,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
