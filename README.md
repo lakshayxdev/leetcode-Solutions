@@ -650,6 +650,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0198-house-robber) |
@@ -730,6 +731,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -813,6 +815,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Range Minimum/Maximum Query
