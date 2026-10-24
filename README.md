@@ -430,6 +430,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -739,6 +740,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2409-count-days-spent-together](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
