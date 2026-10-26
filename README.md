@@ -82,6 +82,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
