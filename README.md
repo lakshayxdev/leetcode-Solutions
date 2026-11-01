@@ -93,6 +93,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
@@ -140,6 +141,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -444,6 +446,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2942-find-words-containing-character](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -678,6 +681,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
