@@ -94,6 +94,7 @@
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
@@ -651,6 +652,7 @@
 | [1020-number-of-enclaves](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dijkstra's Algorithm
