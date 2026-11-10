@@ -694,6 +694,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -783,6 +784,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bracket Sequences
@@ -880,6 +882,7 @@
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Cartesian Tree
 |  |
 | ------- |
