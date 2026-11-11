@@ -750,6 +750,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2706-buy-two-chocolates](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Database
 |  |
 | ------- |
@@ -785,6 +786,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bracket Sequences
