@@ -106,6 +106,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
