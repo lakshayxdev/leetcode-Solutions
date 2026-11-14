@@ -108,6 +108,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3364-minimum-positive-sum-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -153,6 +154,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Tree
@@ -587,6 +589,7 @@
 | [0767-reorganize-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 ## Design
 |  |
 | ------- |
