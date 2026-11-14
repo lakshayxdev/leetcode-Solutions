@@ -108,6 +108,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3364-minimum-positive-sum-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -720,6 +721,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3364-minimum-positive-sum-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -816,6 +818,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2762-continuous-subarrays) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |
