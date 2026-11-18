@@ -463,6 +463,7 @@
 | [2409-count-days-spent-together](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2678-number-of-senior-citizens](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
