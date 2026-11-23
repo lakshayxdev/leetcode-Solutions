@@ -75,6 +75,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -603,6 +604,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -722,6 +724,7 @@
 | [0724-find-pivot-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -789,6 +792,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -895,6 +899,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
