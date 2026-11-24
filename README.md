@@ -91,6 +91,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -408,6 +409,7 @@
 | [1631-path-with-minimum-effort](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
