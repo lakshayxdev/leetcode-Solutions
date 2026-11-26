@@ -754,6 +754,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -807,6 +808,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3360-stone-removal-game](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
