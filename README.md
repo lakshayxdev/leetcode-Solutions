@@ -116,6 +116,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3364-minimum-positive-sum-subarray](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -162,6 +163,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 ## Tree
 |  |
 | ------- |
@@ -478,6 +480,7 @@
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3894-traffic-signal-color](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Backtracking
 |  |
@@ -602,6 +605,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3238-find-the-number-of-winning-players](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
+| [3527-find-the-most-common-response](https://github.com/lakshayxdev/leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
 | ------- |
